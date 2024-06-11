@@ -1,7 +1,6 @@
 package collections;
 
 import java.util.*;
-
 public class ListExamples {
     public static void main(String[] args) {
         List<Integer> integerList = new ArrayList<>();
